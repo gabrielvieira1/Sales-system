@@ -119,6 +119,7 @@
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Library\CommandHandler.cs" />
     <Compile Include="Models\UserModel.cs" />
     <Compile Include="Models\PropertyChangeNotification.cs" />
     <Compile Include="ViewsModels\LoginViewModel.cs" />
